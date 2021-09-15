@@ -1,0 +1,16 @@
+C:\Users\aquil\OneDrive\Documentos\Faculdade\ProgramacaoAvancada\provaProgAvan\obj\Debug\net5.0\provaProgAvan.csproj.AssemblyReference.cache
+C:\Users\aquil\OneDrive\Documentos\Faculdade\ProgramacaoAvancada\provaProgAvan\obj\Debug\net5.0\provaProgAvan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aquil\OneDrive\Documentos\Faculdade\ProgramacaoAvancada\provaProgAvan\obj\Debug\net5.0\provaProgAvan.AssemblyInfoInputs.cache
+C:\Users\aquil\OneDrive\Documentos\Faculdade\ProgramacaoAvancada\provaProgAvan\obj\Debug\net5.0\provaProgAvan.AssemblyInfo.cs
+C:\Users\aquil\OneDrive\Documentos\Faculdade\ProgramacaoAvancada\provaProgAvan\obj\Debug\net5.0\provaProgAvan.csproj.CoreCompileInputs.cache
+C:\Users\aquil\OneDrive\Documentos\Faculdade\ProgramacaoAvancada\provaProgAvan\bin\Debug\net5.0\provaProgAvan.exe
+C:\Users\aquil\OneDrive\Documentos\Faculdade\ProgramacaoAvancada\provaProgAvan\bin\Debug\net5.0\provaProgAvan.deps.json
+C:\Users\aquil\OneDrive\Documentos\Faculdade\ProgramacaoAvancada\provaProgAvan\bin\Debug\net5.0\provaProgAvan.runtimeconfig.json
+C:\Users\aquil\OneDrive\Documentos\Faculdade\ProgramacaoAvancada\provaProgAvan\bin\Debug\net5.0\provaProgAvan.runtimeconfig.dev.json
+C:\Users\aquil\OneDrive\Documentos\Faculdade\ProgramacaoAvancada\provaProgAvan\bin\Debug\net5.0\provaProgAvan.dll
+C:\Users\aquil\OneDrive\Documentos\Faculdade\ProgramacaoAvancada\provaProgAvan\bin\Debug\net5.0\ref\provaProgAvan.dll
+C:\Users\aquil\OneDrive\Documentos\Faculdade\ProgramacaoAvancada\provaProgAvan\bin\Debug\net5.0\provaProgAvan.pdb
+C:\Users\aquil\OneDrive\Documentos\Faculdade\ProgramacaoAvancada\provaProgAvan\obj\Debug\net5.0\provaProgAvan.dll
+C:\Users\aquil\OneDrive\Documentos\Faculdade\ProgramacaoAvancada\provaProgAvan\obj\Debug\net5.0\ref\provaProgAvan.dll
+C:\Users\aquil\OneDrive\Documentos\Faculdade\ProgramacaoAvancada\provaProgAvan\obj\Debug\net5.0\provaProgAvan.pdb
+C:\Users\aquil\OneDrive\Documentos\Faculdade\ProgramacaoAvancada\provaProgAvan\obj\Debug\net5.0\provaProgAvan.genruntimeconfig.cache
